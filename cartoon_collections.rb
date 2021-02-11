@@ -1,5 +1,5 @@
 def greet_characters(array)
-  character_array.each do |greet_characters|
+  array.each do |greet_characters|
     puts Hello #{greet_characters} !
   end
     
